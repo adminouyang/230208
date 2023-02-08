@@ -1,1 +1,206 @@
+央视频道,#genre#
+CCTV-1 综合,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+CCTV-1 综合,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+CCTV-1 综合,https://live.v1.mk/aishang/cctv1hd
+CCTV-1 综合,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
+CCTV-1 综合,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
+CCTV-1 综合,http://1.189.99.196/hlsmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?&encrypt=
+CCTV-1 综合,http://live.cooltv.top/tv/aishang.php?id=cctv1
+CCTV-1 综合,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
+CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV-1 综合,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8
+CCTV-1 综合,http://39.134.115.221:8080/PLTV/88888910/224/3221225642/index.m3u8
+CCTV-1 综合,http://39.134.115.221:8080/PLTV/88888910/224/3221225762/index.m3u8
+CCTV-2 财经,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+CCTV-2 财经,https://live.v1.mk/aishang/cctv2hd
+CCTV-2 财经,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+CCTV-2 财经,http://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv2_2/index.m3u8
+CCTV-2 财经,http://1.189.99.196/hlsmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/600/index.m3u8?&encrypt=
+CCTV-2 财经,http://live.cooltv.top/tv/aishang.php?id=cctv2
+CCTV-2 财经,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
+CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV-2 财经,http://39.134.115.221:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV-2 财经,http://39.134.115.221:8080/PLTV/88888910/224/3221225643/index.m3u8
+CCTV-3 综艺,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+CCTV-3 综艺,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+CCTV-3 综艺,https://live.v1.mk/aishang/cctv3hd
+CCTV-3 综艺,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
+CCTV-3 综艺,http://1.189.99.196/hlsmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?&encrypt=
+CCTV-3 综艺,http://live.cooltv.top/tv/aishang.php?id=cctv3
+CCTV-3 综艺,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
+CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV-3 综艺,http://39.134.115.221:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-3 综艺,http://39.134.115.221:8080/PLTV/88888910/224/3221225647/index.m3u8
+CCTV-4 中文国际,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+CCTV-4 中文国际,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+CCTV-4 中文国际,https://live.v1.mk/aishang/cctv4hd
+CCTV-4 中文国际,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
+CCTV-4 中文国际,http://1.189.99.196/hlsmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/600/index.m3u8?&encrypt=
+CCTV-4 中文国际,http://live.cooltv.top/tv/aishang.php?id=cctv4
+CCTV-4 中文国际,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
+CCTV-4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV-4 中文国际,http://39.134.115.221:8080/PLTV/88888910/224/3221225621/index.m3u8
+CCTV-4 中文国际,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
+CCTV-4 中文国际,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/index.m3u8
+CCTV-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+CCTV-5 体育,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+CCTV-5 体育,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
+CCTV-5 体育,https://live.v1.mk/aishang/cctv5hd
+CCTV-5 体育,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+CCTV-5 体育,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv5_2/index.m3u8
+CCTV-5 体育,http://1.189.99.196/hlsmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/index.m3u8?&encrypt=
+CCTV-5 体育,http://live.cooltv.top/tv/aishang.php?id=cctv5
+CCTV-5 体育,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5 体育,http://39.134.115.221:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5+ 体育赛事,http://live.cooltv.top/tv/aishang.php?id=cctv5p
+CCTV-5+ 体育赛事,https://live.v1.mk/aishang/cctv5p
+CCTV-5+ 体育赛事,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
+CCTV-5+ 体育赛事,http://1.189.99.196/hlsmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdplusnew/600/index.m3u8?&encrypt=
+CCTV-5+ 体育赛事,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
+CCTV-5+ 体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV-5+ 体育赛事,http://39.134.115.221:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5+ 体育赛事,http://39.134.115.221:8080/PLTV/88888910/224/3221225706/index.m3u8
+CCTV-6 电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+CCTV-6 电影,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
+CCTV-6 电影,https://live.v1.mk/aishang/cctv6hd
+CCTV-6 电影,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
+CCTV-6 电影,http://1.189.99.196/hlsmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?&encrypt=
+CCTV-6 电影,http://live.cooltv.top/tv/aishang.php?id=cctv6
+CCTV-6 电影,http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
+CCTV-6 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV-6 电影,http://39.134.115.221:8080/PLTV/88888910/224/3221225632/index.m3u8
+CCTV-6 电影,http://39.134.115.221:8080/PLTV/88888910/224/3221225650/index.m3u8
+CCTV-7 国防军事,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
+CCTV-7 国防军事,https://live.v1.mk/aishang/cctv7hd
+CCTV-7 国防军事,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
+CCTV-7 国防军事,http://1.189.99.196/hlsmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/index.m3u8?&encrypt=
+CCTV-7 国防军事,http://live.cooltv.top/tv/aishang.php?id=cctv7
+CCTV-7 国防军事,http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
+CCTV-7 国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV-7 国防军事,http://39.134.115.221:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-7 国防军事,http://39.134.115.221:8080/PLTV/88888910/224/3221225644/index.m3u8
+CCTV-7 国防军事,http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
+CCTV-8 电视剧,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+CCTV-8 电视剧,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
+CCTV-8 电视剧,https://live.v1.mk/aishang/cctv8hd
+CCTV-8 电视剧,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
+CCTV-8 电视剧,http://1.189.99.196/hlsmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?&encrypt=
+CCTV-8 电视剧,http://live.cooltv.top/tv/aishang.php?id=cctv8
+CCTV-8 电视剧,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
+CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV-8 电视剧,http://39.134.115.221:8080/PLTV/88888910/224/3221225631/index.m3u8
+CCTV-8 电视剧,http://39.134.115.221:8080/PLTV/88888910/224/3221225635/index.m3u8
+CCTV-9 记录,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+CCTV-9 记录,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
+CCTV-9 记录,https://live.v1.mk/aishang/cctv9hd2
+CCTV-9 记录,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
+CCTV-9 记录,http://1.189.99.196/hlsmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/index.m3u8?&encrypt=
+CCTV-9 记录,http://live.cooltv.top/tv/aishang.php?id=cctv9
+CCTV-9 记录,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
+CCTV-9 记录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV-9 记录,http://39.134.115.221:8080/PLTV/88888910/224/3221225626/index.m3u8
+CCTV-9 记录,http://39.134.115.221:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-9 记录,http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
+CCTV-9 记录,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
+CCTV-10 科教,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+CCTV-10 科教,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
+CCTV-10 科教,https://live.v1.mk/aishang/cctv10hd
+CCTV-10 科教,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
+CCTV-10 科教,http://1.189.99.196/hlsmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?&encrypt=
+CCTV-10 科教,http://live.cooltv.top/tv/aishang.php?id=cctv10
+CCTV-10 科教,http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
+CCTV-10 科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV-10 科教,http://39.134.115.221:8080/PLTV/88888910/224/3221225627/index.m3u8
+CCTV-10 科教,http://39.134.115.221:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-10 科教,http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8
+CCTV-11 戏曲,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
+CCTV-11 戏曲,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
+CCTV-11 戏曲,https://live.v1.mk/aishang/cctv11hd
+CCTV-11 戏曲,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
+CCTV-11 戏曲,http://1.189.99.196/hlsmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?&encrypt=
+CCTV-11 戏曲,http://live.cooltv.top/tv/aishang.php?id=cctv11
+CCTV-11 戏曲,http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
+CCTV-11 戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV-11 戏曲,http://39.134.115.221:8080/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-11 戏曲,http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
+CCTV-12 社会与法,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
+CCTV-12 社会与法,https://live.v1.mk/aishang/cctv12hd
+CCTV-12 社会与法,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
+CCTV-12 社会与法,http://1.189.99.196/hlsmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/50/index.m3u8?&encrypt=
+CCTV-12 社会与法,http://live.cooltv.top/tv/aishang.php?id=cctv12
+CCTV-12 社会与法,http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
+CCTV-12 社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV-12 社会与法,http://39.134.115.221:8080/PLTV/88888910/224/3221225629/index.m3u8
+CCTV-12 社会与法,http://39.134.115.221:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-12 社会与法,http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
+CCTV-13 新闻,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctvnewsHD/__op/default/__f/index.m3u8
+CCTV-13 新闻,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+CCTV-13 新闻,https://live.v1.mk/aishang/cctv13hd
+CCTV-13 新闻,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
+CCTV-13 新闻,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
+CCTV-13 新闻,http://1.189.99.196/hlsmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13hd/1000/index.m3u8?&encrypt=
+CCTV-13 新闻,http://live.cooltv.top/tv/aishang.php?id=cctv13
+CCTV-13 新闻,http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
+CCTV-13 新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV-13 新闻,http://39.134.115.221:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-13 新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-14 少儿,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
+CCTV-14 少儿,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
+CCTV-14 少儿,https://live.v1.mk/aishang/cctv14hd
+CCTV-14 少儿,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
+CCTV-14 少儿,http://1.189.99.196/hlsmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?&encrypt=
+CCTV-14 少儿,http://live.cooltv.top/tv/aishang.php?id=cctv14
+CCTV-14 少儿,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
+CCTV-14 少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV-14 少儿,http://39.134.115.221:8080/PLTV/88888910/224/3221225639/index.m3u8
+CCTV-14 少儿,http://39.134.115.221:8080/PLTV/88888910/224/3221225640/index.m3u8
+CCTV-14 少儿,http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
+CCTV-15 音乐,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
+CCTV-15 音乐,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
+CCTV-15 音乐,https://live.v1.mk/aishang/cctv15hd
+CCTV-15 音乐,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
+CCTV-15 音乐,http://1.189.99.196/hlsmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/50/index.m3u8?&encrypt=
+CCTV-15 音乐,http://live.cooltv.top/tv/aishang.php?id=cctv15
+CCTV-15 音乐,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
+CCTV-15 音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV-15 音乐,http://39.134.115.221:8080/PLTV/88888910/224/3221225641/index.m3u8
+CCTV-15 音乐,http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-15 音乐,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+CCTV-16 奥林匹克,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+CCTV-16 奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
+CCTV-16 奥林匹克,https://live.v1.mk/aishang/cctv16hd
+CCTV-16 奥林匹克,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
+CCTV-16 奥林匹克,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
+CCTV-16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-16 奥林匹克,http://1.81.2.10/livehkkp.chinamcache.com/live/CCTV-16-4K_8000.m3u8
+CCTV-16 奥林匹克,http://1.81.2.33/livehkkp.chinamcache.com/live/CCTV-16-4K_8000.m3u8
+CCTV-16 奥林匹克,http://1.81.2.38/livehkkp.chinamcache.com/live/CCTV-16-4K_8000.m3u8
+CCTV16-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
+CCTV-17 农业 农村,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
+CCTV-17 农业 农村,,https://live.v1.mk/aishang/cctv17hd
+CCTV-17 农业 农村,,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
+CCTV-17 农业 农村,,http://1.189.99.196/hlsmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/50/index.m3u8?&encrypt=
+CCTV-17 农业 农村,,http://live.cooltv.top/tv/aishang.php?id=cctv17
+CCTV-17 农业 农村,,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
+CCTV-17 农业 农村,,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+CCTV-17 农业 农村,,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
+CCTV 风云剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
+CCTV 风云剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+CCTV 风云音乐,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+CCTV 风云足球,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+CCTV 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+CCTV 第一剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+CCTV 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+CCTV 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV 兵器科技,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+CCTV 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+
+CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+CCTV央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+书画,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8
+摄影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8
+求索纪录高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 
