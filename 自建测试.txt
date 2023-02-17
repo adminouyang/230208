@@ -3,7 +3,7 @@
 {"key":"js_豆瓣热播","name":"🏘️JG整理┃豆瓣推荐","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/豆瓣.js"},
 {"key":"sp_Ae","name":"🍎影视┃小苹果","type" : 3,"api" : "csp_Dora", "jar": "http://8.210.220.114:8888/down/7Oy94pL2e9Sk.jar;md5;4da8597cb30a855eda0a3539e5b645a0","ext":"6deed4548c44b18d268a5d828f04d86e","playerType":1},
 {"key":"Sp_Tu","name":"🐰影视┃Tutu","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,playerType:1,"ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://8.210.220.114:8888/down/7Oy94pL2e9Sk.jar;md5;4da8597cb30a855eda0a3539e5b645a0"}, 
-{"key":"sp_Nm","name":"🌾影视┃农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://8.210.220.114:8888/down/dvgYVql5wrjp.json"},
+{"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0","ext": "http://52bsj.vip:81/api/v3/file/get/59543/%E5%86%9C%E6%B0%91.json?sign=KIBt0LFsfJvjmxlil3-pg6z4ImW81AydgH6IhIJOgCQ%3D%3A0"},
 {"key":"Sp_77","name":"👒影视┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xb_CT","name":"🥅影视┃CITY", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.citydy.com/show/id-{cateId}/page/{catePg}.html" },
 {"key":"PQ-fd","name":"🍝影视┃饭团HD","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://8.210.220.114:8888/down/PZz3QVpWxCCz.js"},
