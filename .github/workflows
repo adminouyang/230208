@@ -7,8 +7,6 @@ TvBox 配置
 
 如果有必要手动输入建议使用短链如：http://gg.gg/，https://suowo.cn/，https://dlj.li/ 等
 配置
-名称	分流1	分流2	分流3	分流4	分流5	分流6
-ptest.json	地址	地址	地址	地址	地址	地址
-j3zp.json	地址	地址	地址	地址	地址	地址
-ikbb.json	地址	地址	地址	地址	地址	地址
-fj.json	地址	地址	地址	地址	地址	地址
+  名称	     分流1	分流2	分流3	分流4	分流5	分流6
+ouyang.txt	 地址/	地址	地址	地址	地址	地址
+
